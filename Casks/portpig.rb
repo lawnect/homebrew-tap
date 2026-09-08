@@ -1,6 +1,6 @@
 cask "portpig" do
-  version "0.3.1"
-  sha256 "3bb08ff3988b17a9800389beefd81e57c7ab711f857d46d02226cbf99a1052de"
+  version "0.3.2"
+  sha256 "3b9eae1bb63379565260abed15decd64a738af3e8d262f1cb65e39480603211f"
 
   url "https://github.com/lawnect/portpig/releases/download/v#{version}/PortPig-v#{version}.zip"
   name "PortPig"
